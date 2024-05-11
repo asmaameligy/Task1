@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">meme</string>
+    <string name="textview">First App</string>
+    <string name="job">Mobile Developer</string>
+    <string name="todo">TODO</string>
+    <string name="toodo">TOoDO</string>
+    <string name="person">Asmaa Ali</string>
+    <string name="personjob">Mobile App Dev</string>
+</resources>
